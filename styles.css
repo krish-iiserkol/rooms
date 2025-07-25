@@ -1,0 +1,22 @@
+.join-btn {
+  background-color: #22c55e; /* green-500 */
+  color: white;
+  padding: 0.75rem 1.25rem;
+  border-radius: 0.75rem;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+  transition: background-color 0.3s ease;
+}
+
+.join-btn:hover {
+  background-color: #16a34a; /* green-600 */
+}
+
+.progress-list {
+  list-style-type: disc;
+  list-style-position: inside;
+  color: #374151; /* gray-700 */
+}
+
+.progress-list li {
+  margin-bottom: 1rem;
+}
